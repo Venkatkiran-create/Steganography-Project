@@ -15,4 +15,10 @@ This project hides secret messages inside images using **Least Significant Bit (
 - **NumPy**  
 
 ## Project Screenshots  
-![Encoding Result](https://your-image-url.com/encoded.png)
+## Project Screenshots  
+
+### Encoding Process  
+![Encoding Result](encoding_result.png)  
+
+### Decoding Process  
+![Decoding Result](decoding_result.png)
