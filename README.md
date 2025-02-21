@@ -24,3 +24,13 @@ This project hides secret messages inside images using **Least Significant Bit (
 
 ### Decoding Process  
 ![Decoding Result](decoding_result.png)
+4. Example Output
+
+Encoding Process:
+
+Enter the secret message: Hidden Data 123!
+Encoding successful. Image saved as encoded_image.png
+
+Decoding Process:
+
+Decoded Message: Hidden Data 123!
