@@ -5,9 +5,11 @@ This project hides secret messages inside images using **Least Significant Bit (
 
 ## How to Use  
 1. Install dependencies:
-2. Run the script:
-3. Encode a message into an image.  
-4. Decode the message from the encoded image.  
+2. pip install pillow numpy
+3. Run the script:
+4. python steganography_project.py
+5. Encode a message into an image.  
+6. Decode the message from the encoded image.  
 
 ## Technologies Used  
 - **Python**  
